@@ -1,2 +1,2 @@
 # notes
-Note about everything learnt
+**Note about everything learnt**
